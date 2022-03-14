@@ -10,6 +10,7 @@ export const Home = () => {
 		<div className="text-center mt-5">
 			<h1>Hello Chicos!!</h1>
 			<p>hola otra vez</p>
+			<h2>Soy un h2</h2>
 			<p>
 				<img src={rigoImageUrl} />
 			</p>
