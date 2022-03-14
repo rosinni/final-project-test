@@ -11,6 +11,7 @@ export const Home = () => {
 			<h1>Hello Chicos!!</h1>
 			<p>hola otra vez</p>
 			<h2>Soy un h2</h2>
+			<p>Hola por tercera vez</p>
 			<p>
 				<img src={rigoImageUrl} />
 			</p>
